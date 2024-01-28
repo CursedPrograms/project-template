@@ -32,3 +32,8 @@
 *.toml linguist-generated=false
 *.toml linguist-documentation=false
 *.toml linguist-detectable=true
+
+*.xml linguist-vendored=false
+*.xml linguist-generated=false
+*.xml linguist-documentation=false
+*.xml linguist-detectable=true
