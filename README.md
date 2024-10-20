@@ -20,7 +20,7 @@
 
 <br>
 <div align="center">
-© Cursed Entertainment 2024
+© Cursed Entertainment 202*
 </div>
 <br>
 <div align="center">
